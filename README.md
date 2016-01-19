@@ -60,8 +60,8 @@ Osnovne zančilnosti
 Je napisan točno po django docs - uradni dokumentaciji ni še
 dokončan praktično je samo začet prazen projekt še vedno uporabljam
 za kakšne teste in učeje. 
- 
- ###  Projekt TestDjango 
+
+###  Projekt TestDjango 
  je v bistvu en predpripravljen primer, ki se dobi, če
  naložiš PTVS - samples  Primeri uporabe za Visual studio 2015.
  Samples for PTVS 2.2
@@ -69,7 +69,7 @@ za kakšne teste in učeje.
  V bistvu ni nič spremenjen samo zato, da sem na začetku videl,
  kakšna je struktura projekta :) 
  
- ### Ogrodje Test 
+### Ogrodje Test 
  
  V Mapi test je v bistvu ogrodje sestavljeno na podlagi več.
  tutorialov in dokumentacije za Google App Engine. 
