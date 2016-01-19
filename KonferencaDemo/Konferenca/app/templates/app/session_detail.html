@@ -1,0 +1,24 @@
+﻿{% extends 'layout.html' %}
+
+{%  block title %}Session Details{% endblock title%}
+
+{% block naslov%} Podrobnosti Predavanja {% endblock naslov %}
+
+{% block vsebina%} 
+<div class="col-md-3"><strong>Title</strong></div>
+<div class="col-md-9">{{ object.title }}</div>
+
+<div class="row">
+    <div class="col-md-3"><strong>Abstract</strong></div>
+    <div class="col-md-9">{{ object.abstract }}</div>
+</div>
+<div class="row">
+    <div class="col-md-3"><strong>Sepaker</strong></div>
+    <div class="col-md-9">{{ object.speaker }}</div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <a href="{% url 'sessions_list' %}">Nazaj</a>
+    </div>
+</div>
+{% endblock vsebina %}

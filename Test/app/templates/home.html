@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% load staticfiles %}
+    <link rel="stylesheet" href="{% static 'app/theme.css' %}" type="text/css">
+    <title>Home</title>
+</head>
+<body>
+<h1>To je domača stran :) </h1>
+{% if prijavljen %}
+<h3>Pozdravljen {{ uporabnik.nickname }}</h3>
+    <p>
+        <a href="{{ logout_url }}">Odjava</a>
+    </p>
+{% else %}
+    <h3>Pozdravljen! - Prijavi se :)</h3>
+    <p>
+        <a href="{{ login_url }}">Prijava</a>
+    </p>
+
+{% endif %}
+</body>
+</html>

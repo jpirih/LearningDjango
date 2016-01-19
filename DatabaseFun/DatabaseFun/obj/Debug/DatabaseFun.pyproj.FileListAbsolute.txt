@@ -1,0 +1,15 @@
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\bin\Microsoft.PythonTools.WebRole.dll
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\obj\Debug\attach_server.py
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\obj\Debug\visualstudio_py_debugger.py
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\obj\Debug\visualstudio_py_repl.py
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\obj\Debug\visualstudio_py_util.py
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\obj\Debug\__init__.py
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\obj\Debug\__main__.py
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\bin\AzureSetup.cfg
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\bin\Microsoft.PythonTools.AzureSetup.exe
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\bin\Microsoft.PythonTools.AzureSetup.exe.config
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\bin\wfastcgi.py
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\obj\Debug\deployment-updated-pyvenv.cfg
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\ptvs_virtualenv_proxy.py
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\obj\Debug\web.config
+F:\Python\PythonDjango\DatabaseFun\DatabaseFun\obj\Debug\web.debug.config

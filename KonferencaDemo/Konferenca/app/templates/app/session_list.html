@@ -1,0 +1,22 @@
+﻿{% extends 'layout.html' %}
+
+{%  block title %}Sessions List {% endblock title%}
+
+{% block naslov %}Seznam Predavanj {% endblock naslov %}
+
+{% block vsebina %}
+{% for session in object_list %}
+    <div class="col-md-8">
+        <a href="{% url 'session_details' session.pk %}"> {{ session.title }}</a>
+    </div>
+    <div class="col-md-2">
+        <a href="{% url 'session_update' session.pk %}"> Update</a>
+    </div>
+    <div class="col-md-2">
+        <a href="{% url 'session_delete' session.pk %}"> Delete</a>
+    </div>
+{%  endfor %}
+<div class="col-md-12">
+    <a href="{% url 'session_create' %}"> Priavi Predavanje </a>
+</div>
+{% endblock vsebina %}

@@ -1,0 +1,15 @@
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\bin\Microsoft.PythonTools.WebRole.dll
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\obj\Debug\attach_server.py
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\obj\Debug\visualstudio_py_debugger.py
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\obj\Debug\visualstudio_py_repl.py
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\obj\Debug\visualstudio_py_util.py
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\obj\Debug\__init__.py
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\obj\Debug\__main__.py
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\bin\AzureSetup.cfg
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\bin\Microsoft.PythonTools.AzureSetup.exe
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\bin\Microsoft.PythonTools.AzureSetup.exe.config
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\bin\wfastcgi.py
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\obj\Debug\deployment-updated-orig-prefix.txt
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\ptvs_virtualenv_proxy.py
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\obj\Debug\web.config
+F:\Python\PythonDjango\KonferencaDemo\Konferenca\obj\Debug\web.debug.config

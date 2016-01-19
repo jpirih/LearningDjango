@@ -1,0 +1,15 @@
+﻿{% extends 'layout.html' %}
+
+{% block title%}Preavanje obrazec {% endblock title%}
+{% block naslov %}Predavanje obrazec {% endblock naslov %}
+
+{% load crispy_forms_tags %}
+{% block vsebina %}
+<div class="col-md-12">
+    <form method="post"> 
+        {% csrf_token %}
+        {% crispy form %}
+    </form>
+</div>
+
+{% endblock vsebina %}

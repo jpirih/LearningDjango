@@ -1,0 +1,16 @@
+﻿{% extends 'layout.html' %}
+
+{% block title%}Preavanje Delete {% endblock title%}
+{% block naslov %}Potrdi brisanje {% endblock naslov %}
+
+{% block vsebina %}
+<div class="col-md-4">
+    <form method="post"> 
+        {% csrf_token %}
+        {{ form.as_p }}
+
+        <button type="submit" class="btn btn-Danger">Yes, Delete</button>
+    </form>
+</div>
+
+{% endblock vsebina %}
